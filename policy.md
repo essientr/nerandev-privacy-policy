@@ -1,2 +1,6 @@
 # nerandev-privacy-policy
 NeranDev+ Botunun Gizlilik Politikası - Privacy Policy of NeranDev+ Bot
+
+
+NeranDev+ Size Ait Özel Verileri Asla Paylaşmaz Ve Kötü Ameller İçin Kullanmaz.Sadece Ayarlamalı Komutlarda Kanal ID Kanal İsmi Kullanıcı ID Gibi Verileri Depolar.Bu Veri Depolaması Komutların Uzun Süre Hatasız Çalışması İçin Gereklidir.Sunucunuz Veya Sizin Hakkınızda Özel Olan Verileri İstemez Ve KULLANMAZ! NeranDev+,Kullanıcılara Özel Verileri Asla Saklamaz Veya Size Ait Bir Bilgiyi Başka Kullanıcılara Pazarlamaz Ve PAYLAŞMAZ.Veriler,Sadece 1 Kişi Tarafından Yönetilebilir Başka Kimse Bu Verileri Görmez Ve Kullanmaz.Verileri İsteme Veya Silme Talebini Oluşturma Hakkında Sahipsiniz.Eğer Bunun Gibi Bir Talepte Bulunmak İstiyorsanız. Dİscord Üzerinden @essientr (1052616588420972574) Kullanıcısına Ulaşabilirsiniz.Veriler 1 Aydan Kısa Bir Süre Depolanır Sonrasında Otomatik Olarak Silinir Verileriniz Son Derece Güvence Altındadır.Verileri Silme Veya Kopyasını Alma Hakkına SAHİPSİNİZ.Hertürlü Şikayet Veya Öneri Durumunda Öncelikli Yapmanız Gereken Geliştiricimize Ulaşmak.Eğer Geliştiricimize Ulaşmadan Kafanıza Göre İş Yapmaya Kalkarsanız Geliştiricimizin Size Cevap Vermeme Hakkında Sahiptir.NeranDev+ Tüm Hakları Saklıdır.
+
