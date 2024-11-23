@@ -15,6 +15,7 @@ Neran Development olarak, kullanıcılarımızın kişisel verilerinin korunmas�
 
 Resmi Alan Adları: neran.dev / nerandev.io / .net / .xyz / .com / .com.tr / .site / .website / .online / .store / .pro / .cloud
 Resmi Uygulamalar: Neran App
+
 4. Verilerin Saklanması ve Yönetimi
 4.1. Veri Saklama Süresi: Topladığımız veriler, gerekli süre boyunca saklanır ve sonrasında otomatik olarak silinir. Bot verileri, kullanım amacına göre bir ay süresince saklanabilir.
 4.2. Veri Erişimi ve Silme: Kişisel verilerinize erişim talebinde bulunabilir ve verilerinizin doğru olduğundan emin olabilirsiniz. Ayrıca, verilerinizin güncellenmesi veya silinmesi talebinde bulunabilirsiniz.
