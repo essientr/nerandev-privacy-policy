@@ -12,7 +12,6 @@ Neran Development olarak, kullanıcılarımızın kişisel verilerinin korunmas�
 3.1. Güvenlik Önlemleri: Kişisel verilerinizin güvenliğini sağlamak amacıyla fiziksel, elektronik ve prosedürel güvenlik önlemleri alıyoruz. Bu önlemler, verilerinizi yetkisiz erişim ve kötüye kullanım risklerine karşı korur.
 3.2. Veri Şifreleme: Hassas veriler, şifreleme teknikleri kullanılarak korunur. Bu, verilerinizin yetkisiz erişimlerden korunmasını sağlar.
 3.3. Yasal Adresler: Bilgi güvenliği önlemlerimiz yalnızca resmi olarak belirlenen ve denetlenen alanlarda geçerlidir. Diğer platformlar veya uygulamalar bizim kontrolümüzde değildir ve bu nedenle sorumluluk kabul etmiyoruz.
-
 Resmi Alan Adları: neran.dev / nerandev.io / .net / .xyz / .com / .com.tr / .site / .website / .online / .store / .pro / .cloud
 Resmi Uygulamalar: Neran App
 
