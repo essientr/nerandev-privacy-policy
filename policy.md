@@ -1,8 +1,29 @@
 # nerandev-privacy-policy
-NeranDev+ Botunun Gizlilik Politikası - Privacy Policy of NeranDev+ Bot
+Neran Development olarak, kullanıcılarımızın kişisel verilerinin korunmasına büyük önem veriyoruz. Bu gizlilik politikası, web sitemizi, NeranDev+, NexosBot, SliceBot, Steel ve diğer hizmetlerimizi kullanırken topladığımız, işlediğimiz ve koruduğumuz verileri açıklamaktadır. Bu politikayı dikkatlice okuyarak verilerinizin nasıl kullanıldığını ve korunacağını anlayabilirsiniz.
 
-Turkish:
-NeranDev+ Size Ait Özel Verileri Asla Paylaşmaz Ve Kötü Ameller İçin Kullanmaz.Sadece Ayarlamalı Komutlarda Kanal ID Kanal İsmi Kullanıcı ID Gibi Verileri Depolar.Bu Veri Depolaması Komutların Uzun Süre Hatasız Çalışması İçin Gereklidir.Sunucunuz Veya Sizin Hakkınızda Özel Olan Verileri İstemez Ve KULLANMAZ! NeranDev+,Kullanıcılara Özel Verileri Asla Saklamaz Veya Size Ait Bir Bilgiyi Başka Kullanıcılara Pazarlamaz Ve PAYLAŞMAZ.Veriler,Sadece 1 Kişi Tarafından Yönetilebilir Başka Kimse Bu Verileri Görmez Ve Kullanmaz.Verileri İsteme Veya Silme Talebini Oluşturma Hakkında Sahipsiniz.Eğer Bunun Gibi Bir Talepte Bulunmak İstiyorsanız. Discord Üzerinden @essientr (1052616588420972574) Kullanıcısına Ulaşabilirsiniz.Veriler 1 Aydan Kısa Bir Süre Depolanır Sonrasında Otomatik Olarak Silinir Verileriniz Son Derece Güvence Altındadır.Verileri Silme Veya Kopyasını Alma Hakkına SAHİPSİNİZ!Hertürlü Şikayet Veya Öneri Durumunda Öncelikli Yapmanız Gereken Geliştiricimize Ulaşmak.Eğer Geliştiricimize Ulaşmadan Kafanıza Göre İş Yapmaya Kalkarsanız Geliştiricimizin Size Cevap Vermeme Hakkında Sahiptir.NeranDev+ Tüm Hakları Saklıdır.
+1. Toplanan Bilgiler
+1.1. Kişisel Bilgiler: Web sitemizi ziyaret ederken veya NeranDev+, NexosBot, SliceBot, Steel botlarını kullanırken, adınız, e-posta adresiniz ve diğer iletişim bilgilerinizi toplayabiliriz. Bu bilgiler, hizmetlerimizi sizin için optimize etmek amacıyla kullanılacaktır.
+1.2. Kullanım Verileri: Web sitemizi ziyaret ederken IP adresiniz, tarayıcı türünüz, erişim tarihleri ve ziyaret süresi gibi bilgiler otomatik olarak toplanır. Bu veriler, site performansını izlemek ve iyileştirmek amacıyla kullanılmaktadır.
+1.3. Bot Etkileşimleri: NeranDev+, NexosBot, SliceBot, Steel ve diğer botlar aracılığıyla, kanal ID'leri, kullanıcı ID'leri ve etkileşim verileri gibi bilgiler toplanabilir. Bu veriler, botların doğru çalışmasını ve performansını artırmak için kullanılacaktır.
+2. Çerezler
+2.1. Çerezlerin Kullanımı: Web sitemiz, kullanıcı deneyimini geliştirmek amacıyla çerezler kullanır. Çerezler, tarayıcınızda küçük veri dosyaları olarak saklanır ve tercihlerinizi hatırlamak için kullanılır.
+2.2. Çerezlerin Yönetimi: Çerezleri tarayıcı ayarlarınızdan yönetebilir ve silebilirsiniz. Ancak, çerezlerin devre dışı bırakılması, web sitemizin bazı işlevlerinin düzgün çalışmamasına neden olabilir.
+3. Bilgi Güvenliği
+3.1. Güvenlik Önlemleri: Kişisel verilerinizin güvenliğini sağlamak amacıyla fiziksel, elektronik ve prosedürel güvenlik önlemleri alıyoruz. Bu önlemler, verilerinizi yetkisiz erişim ve kötüye kullanım risklerine karşı korur.
+3.2. Veri Şifreleme: Hassas veriler, şifreleme teknikleri kullanılarak korunur. Bu, verilerinizin yetkisiz erişimlerden korunmasını sağlar.
+3.3. Yasal Adresler: Bilgi güvenliği önlemlerimiz yalnızca resmi olarak belirlenen ve denetlenen alanlarda geçerlidir. Diğer platformlar veya uygulamalar bizim kontrolümüzde değildir ve bu nedenle sorumluluk kabul etmiyoruz.
 
-English:
-NeranDev+ will never share your private data and use it for bad deeds. It only stores data such as Channel ID, Channel Name, User ID, in customized commands. This data storage is necessary for the commands to work without errors for a long time. It does not request and use private data about your server or you! NeranDev+ Never Stores User-Private Data Or Markets And Shares Any Information About You To Other Users. The Data Can Be Managed By Only One Person. Nobody Else Can See And Use This Data. You Have The Right To Request Data Or Create A Deletion Request. If You Want To Make A Request Like This. You can reach @essientr (1052616588420972574) on Discord. The Data Is Stored For Less Than 1 Month, Then It Is Automatically Deleted. Your Data Is Extremely Secure. You Have The Right To Delete The Data Or Make A Copy! Our Developer Has The Right Not To Respond To You If You Try To Do Business According To It. NeranDev+ All Rights Reserved.
+Resmi Alan Adları: neran.dev / nerandev.io / .net / .xyz / .com / .com.tr / .site / .website / .online / .store / .pro / .cloud
+Resmi Uygulamalar: Neran App
+4. Verilerin Saklanması ve Yönetimi
+4.1. Veri Saklama Süresi: Topladığımız veriler, gerekli süre boyunca saklanır ve sonrasında otomatik olarak silinir. Bot verileri, kullanım amacına göre bir ay süresince saklanabilir.
+4.2. Veri Erişimi ve Silme: Kişisel verilerinize erişim talebinde bulunabilir ve verilerinizin doğru olduğundan emin olabilirsiniz. Ayrıca, verilerinizin güncellenmesi veya silinmesi talebinde bulunabilirsiniz.
+5. Kullanıcı Hakları
+5.1. Erişim Hakları: Kişisel verilerinize erişim talebinde bulunabilirsiniz. Verilerinizin ne amaçla toplandığını ve nasıl kullanıldığını öğrenme hakkına sahipsiniz.
+5.2. Düzeltme ve Silme Hakları: Kişisel bilgilerinizi güncelleyebilir veya silebilirsiniz. Talebiniz üzerine, bilgilerinizi günceller veya sileriz.
+6. Yetkilendirme ile İlgili Bilgiler
+6.1. Kişisel Verileriniz: Web sitemizde giriş yaptıysanız, kullanıcı adınız, ID’niz, sunucularınız, bağlantılarınız, IP adresiniz ve cihaz bilginiz toplanabilir. Bu bilgiler, sadece hesabınızın doğruluğunu sağlamak ve destek amaçlı kullanılacaktır.
+6.2. Bot Kullanıcı Etkileşimleri: NeranDev+, NexosBot, SliceBot, Steel ve diğer botlar, Discord sunucunuzda çeşitli etkileşimler sağlar. Bu etkileşimlerde toplanan veriler, botların işlevselliği için gereklidir ve performanslarını artırmak amacıyla kullanılabilir.
+7. Veri Paylaşımı
+7.1. Üçüncü Taraflarla Paylaşım: Kişisel verilerinizi, yasal yükümlülüklerimizi yerine getirmek veya hizmet sağlayıcılarımızın bize destek sağlaması için gerekli olduğu durumlarda üçüncü taraflarla paylaşabiliriz. Üçüncü taraflar, verilerinizi yalnızca belirtilen amaçlarla kullanacaktır.
+7.2. Veri Transferi: Kişisel verileriniz, veri güvenliğini sağlamak amacıyla çeşitli ülkelere transfer edilebilir. Verilerinizi korumak için uygun önlemler alınacaktır.
